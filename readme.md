@@ -28,7 +28,7 @@ Este projeto é uma API simples porém completa para gerenciar uma coleção de 
 ## 📂 Estrutura do Projeto
 
 ```
-ALURA-BOOKS-SERVER/
+BOOKS-SERVER/
 ├── 📁 controladores/       # Lógica de controle das requisições
 │   └── livro.js
 ├── 📁 rotas/               # Definição das rotas da API
@@ -54,7 +54,7 @@ ALURA-BOOKS-SERVER/
 
 ```bash
 # Clone o repositório ou baixe os arquivos
-cd ALURA-BOOKS-SERVER
+cd BOOKS-SERVER
 
 # Instale as dependências
 npm install
