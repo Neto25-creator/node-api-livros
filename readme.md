@@ -1,4 +1,4 @@
-# 📚 Books Server
+# 📚 Books Server - BACKEND em NODE
 
 > Uma API RESTful para gerenciamento de livros, desenvolvida com Node.js e Express para treinar competências em backend.
 
