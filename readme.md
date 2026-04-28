@@ -1,4 +1,4 @@
-# 📚 Alura Books Server
+# 📚 Books Server
 
 > Uma API RESTful para gerenciamento de livros, desenvolvida com Node.js e Express para treinar competências em backend.
 
